@@ -33,6 +33,10 @@
 * [popnetwork-masternode-v0.2.3-1.x86_64.rpm](https://thepopnetwork.org/releases/popnetwork-masternode-v0.2.3-alpha/popnetwork-masternode-v0.2.3-1.x86_64.rpm)
 * [popnetwork-masternode-v0.2.3-1.arm64.rpm](https://thepopnetwork.org/releases/popnetwork-masternode-v0.2.3-alpha/popnetwork-masternode-v0.2.3-1.arm64.rpm)
 
+### Screenshot
+
+![Imgur](https://i.imgur.com/qE95SKI.gif)
+
 ## Previous Versions
 
 ### Release Notes v0.2.2-alpha
